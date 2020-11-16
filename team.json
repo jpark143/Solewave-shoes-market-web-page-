@@ -1,0 +1,16 @@
+{"teammembers": [
+    {
+        "name": "Peter",
+        "title": "Main opperator",
+        "tag_line": "We only sell, buy, trade authentic.",
+        "Personal_contact": "Peter_insta00",
+        "numb": "For any question, call or text (704)123-4567"
+    },
+    {
+        "name": "Jae",
+        "title": "Web developer",
+        "tag_line": "Made this web for class.",
+        "Personal_contact": "Jae_insta00",
+        "numb": "For any question, call or text (704)987-6543"
+    }
+]}

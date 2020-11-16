@@ -1,0 +1,65 @@
+/*add a skyblue background color to the head*/
+.head{
+    background-color: skyblue;
+    text-align: center;
+    clear: both;
+}
+/*the top navigation*/
+.topnav {
+    overflow: hidden;
+    background-color: cadetblue;
+    position: fixed;
+    font-family: Arial;
+}
+/*style the links inside the navigation bar*/
+.topnav a{
+    float: left;
+    display: blue;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+/*add an active class to highlight the current page*/
+.active{
+    background-color: cyan;
+    color: white;
+}
+/*hide the link that should open and close the topnav*/
+.topnav .icon{
+    display: none;
+}
+
+/*add background color to nav bar links on hover*/
+.topnav a:hover{
+    background-color: lightpink;
+}
+/*add a background color to the footer*/
+.footer{
+    background-color: skyblue;
+    text-align: center;
+    font-family: Arial;
+}
+/*add a background color to main*/
+.main{
+    background-color: lightcyan;
+    text-align: center;
+    font-family: Arial;
+
+}
+h1{
+    font-style: Aria;
+    font-size:35px;
+    background-color: blue;
+    color: cyan;
+}
+p{
+    padding-bottom: .5em;
+}
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 87.5%;
+	width: 650px;
+	margin: 0 auto;
+	padding: 15px 25px;	
+}
